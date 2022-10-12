@@ -28,7 +28,7 @@ and unable to fulfil its purpose. The port is 5001 because it isn't used by the 
 so it's an empty port.
 
 # Development Environment
-I used my laptop and desktop to develope the code using Visual Studio code as my software
+I used my laptop and desktop to develop the code using Visual Studio code as my software
 and I run the program from the command console.
 The code is written in python with the socket, tqm, and os libraries.
 Socket is the main library that opens the server in one program and connects to it with the other sending the file.
