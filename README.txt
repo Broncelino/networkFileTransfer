@@ -1,7 +1,7 @@
 # Overview
 
-My name is Bryson Williams I have always loved computers and have been programming for a few years now. This repository
-will stand as the front page of my portfolio. I've already made other programs in various languages and have them 
+My name is Bryson Williams I have always loved computers and have been programming for a few years now.
+I've already made other programs in various languages and have them 
 posted to this github. As of now 9/17/22 I am aiming to become a Database admin or something else in that field.
 
 #Description
@@ -28,19 +28,15 @@ and unable to fulfil its purpose. The port is 5001 because it isn't used by the 
 so it's an empty port.
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
 I used my laptop and desktop to develope the code using Visual Studio code as my software
 and I run the program from the command console.
 The code is written in python with the socket, tqm, and os libraries.
 Socket is the main library that opens the server in one program and connects to it with the other sending the file.
 Tqm is used to create a progress bar that shows how much of the file has been transfered.
 Os is used to find the file specified in the client directory
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 Tech with Tim  https://www.youtube.com/watch?v=3QiPPX-KeSc&t=1516s
 realpython https://realpython.com/python-sockets/
 
